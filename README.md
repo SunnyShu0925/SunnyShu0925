@@ -1,15 +1,26 @@
-# Hi there 👋 I'm SunnyShu
-
-🚀 **OpenClaw Contributor**  
-I build and fix things in [openclaw/openclaw](https://github.com/openclaw/openclaw).
-
-- 🔭 Currently working on: **OpenClaw UX & build improvements**
-- 🌱 Learning: **Agent systems, plugin architecture**
-- 👯 Looking to collaborate on: **Open-source AI tooling**
-- 💬 Ask me about: **GitHub workflows, Discord bots, contribution flows**
-- 📫 Reach me: **Discord → `SunnyShu`**
-- ⚡ Fun fact: **I turn bug reports into PRs within hours**
-
----
-
-🧠 *Also known as @Clawtributors on the OpenClaw Discord server.*
+┌─────────────────────────────────────────────┐
+│  🦞 SunnyShu                    [OpenClaw]  │
+│  OpenClaw Contributor · 🇨🇳 Shenzhen        │
+│  > "EXFOLIATE! EXFOLIATE!" ...              │
+│                                             │
+│  🧑‍💻 About Me                               │
+│  🔭 Currently working on openclaw/openclaw  │
+│  ...                                        │
+│                                             │
+│  [Discord] [GitHub] [OpenClaw] [MIT]       │
+│                                             │
+│  ┌──────────────┐ ┌──────────────────┐      │
+│  │ GitHub Stats │ │ Top Languages    │      │
+│  │ 📊 🔥 💻    │ │ TypeScript 65%   │      │
+│  └──────────────┘ └──────────────────┘      │
+│                                             │
+│  🔥 Contribution Streak: 12 days 🔥         │
+│                                             │
+│  [🦞 Contributor] [Role] [PRs Merged ✅]    │
+│                                             │
+│  [TS] [Node] [JS] [Python] [Git] [Docker]   │
+│                                             │
+│  📈 Activity Graph (green waves)            │
+│                                             │
+│  🏆 🥇 🏅 🎖️ 🎗️ 🎯 (trophies)             │
+└─────────────────────────────────────────────┘
